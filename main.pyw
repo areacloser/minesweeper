@@ -53,7 +53,7 @@ for i in mp:
 win = Tk()
 win.resizable(0, 0)
 win.geometry("+200+200")
-win.title("扫雷 V1.2.6 -- By lanlan2_")
+win.title("扫雷 V1.3.7 -- By lanlan2_")
 win.iconbitmap("images/icon.ico")
 win.config(bg="aliceblue")
 
